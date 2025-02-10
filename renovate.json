@@ -1,1 +1,9 @@
-{}
+{
+  "enabledManagers": ["pub"],
+  "dependencyDashboard": true,
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true
+  },
+  "platform": "github"
+}
