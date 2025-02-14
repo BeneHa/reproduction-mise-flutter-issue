@@ -34,7 +34,7 @@ dependencies:
   firebase_messaging: 15.2.1
   flutter_cache_manager: 3.4.1
   flutter_local_notifications: 18.0.1
-  flutter_map: 5.0.0 
+  flutter_map: 8.0.0 
   flutter_map_animations: 0.4.1 
   flutter_markdown: 0.7.5
   flutter_secure_storage: 9.2.3
