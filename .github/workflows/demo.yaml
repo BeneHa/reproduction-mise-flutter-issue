@@ -15,6 +15,6 @@ jobs:
         with:
           configurationFile: tmp.json
           token: x-access-token:${{ secrets.USER_GIT_TOKEN }}
-          renovate-version: full
+          #renovate-version: full
         env:
           LOG_LEVEL: debug
