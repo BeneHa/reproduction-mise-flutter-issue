@@ -20,7 +20,7 @@ dependencies:
   android_intent_plus: 5.2.2
   app_settings: 5.1.1
   appcheck: 1.5.3 
-  archive: 3.6.1
+  archive: 4.0.2
   async: 2.11.0
   cached_network_image: 3.4.1
   cached_network_image_platform_interface: 4.1.1
